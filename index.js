@@ -1,3 +1,16 @@
+/* 
+
+MY JS FILE FOR ODIN PROJECT TEST PRACTICE
+
+Contains functions for:
+
+calculator,
+capitalize,
+ceasarCipher,
+analyzeArray
+
+*/
+
 const calculator = {
   add: function (a, b) {
     return a + b;
